@@ -1,0 +1,35 @@
+@media (max-width:500px) {
+    #cartBtn span{
+        margin: 0.8rem -2rem 5rem ;
+    }
+
+    .header-cart h2, .sub-header-cart h3{
+        /* border: 2px solid red; */
+        font-size: 12px;
+        width: 100px;
+    }
+
+    #number-0f-items{
+        font-size: 12px;
+    }
+
+    .productQuantity i{
+        font-size: 10px;
+    }
+
+    .shopping-cart-inner{
+        display: flex;
+    }
+
+    .shopping-cart-inner img{
+        width: 50px;
+    }
+
+    .sub-header-cart{
+        display: flex;
+    }
+
+    .product-details p, span{
+        font-size: 12px;
+    }
+}
