@@ -11,11 +11,11 @@ I used these: <br>
 ✅A Brain and guts to execute
 
 ## Features
-Display the products available
-Adds the product to the cart
-Increase quantity
-Decrease quantity
-Instant calculation of total price of products in cart
+Display the products available <br>
+Adds the product to the cart <br>
+Increase quantity <br>
+Decrease quantity <br>
+Instant calculation of total price of products in cart <br>
 Use of LocalStorage
 
 
