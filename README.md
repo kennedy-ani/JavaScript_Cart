@@ -1,5 +1,6 @@
 ## How to run it ▶
 Click on the link here: 👇
+https://soft-palmier-64625d.netlify.app/
 
 ## Purpose
 I serves as a basket to keep the products while you surf other products available to choose from
