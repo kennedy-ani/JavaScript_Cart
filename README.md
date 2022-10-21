@@ -6,8 +6,8 @@ https://soft-palmier-64625d.netlify.app/
 I serves as a basket to keep the products while you surf other products available to choose from
 
 ## Tools 🛠
-I used these:
-✅HTML, CSS, Bootstrap and JavaScript
+I used these: <br>
+✅HTML, CSS, Bootstrap and JavaScript <br>
 ✅A Brain and guts to execute
 
 ## Features
